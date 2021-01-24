@@ -1,0 +1,27 @@
+{
+  "catalogo" : [
+    {		"CodBlt" : "a",
+        "FecDes" : "s",
+        "FecGui" : "d",
+        "NroGui" : "f",    
+        "NomDes" : "g",
+        "DirDes" : "h",
+        "DesCom" : "j",
+        "Telefo" : "k",
+        "DscPrd" : "l",
+        "CanTid" : "ñ",
+        "Precio" : "1",
+        "Cemail" : "3",
+        "NroCot" : "7",
+        "Desest" : "5",
+        "FchCambEst" : "6",
+        "SucDes" : "c",
+        "NroBol" : "b",   
+        "RutClie" : "n",
+        "MtrCub" : "m"
+
+}
+		
+		
+  ]
+}
